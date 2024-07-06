@@ -5,9 +5,6 @@ Pesronal Portfolio Template that helps you showcase your work and skills.
 
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 Built with
 
