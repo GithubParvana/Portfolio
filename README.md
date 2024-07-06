@@ -1,7 +1,13 @@
 # Portfolio
 
-Pesronal Portfolio Template that helps yo showcase your work and skills.
+Pesronal Portfolio Template that helps you showcase your work and skills.
 
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 Built with
 
@@ -9,6 +15,10 @@ Built with
 - CSS
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 Portfolio template consists of:
@@ -22,6 +32,10 @@ Portfolio template consists of:
 - Contact
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Pictures
 
